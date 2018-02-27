@@ -1,0 +1,12 @@
+# Extensions
+*.pyc
+*.pyo
+*.py~
+*.txt~
+.gitignore~
+
+# PyCharm Project directory
+.idea
+
+# SQLite
+db.sqlite3
